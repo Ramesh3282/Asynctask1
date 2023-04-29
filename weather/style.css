@@ -1,0 +1,22 @@
+
+#country,#state, #city{
+    width: 10em;
+    margin: 1em;
+    
+ 
+}
+body{
+    background-color: rgb(197, 168, 72) !important;
+}
+#dropdown{
+    display: flex;
+    justify-content: center;
+} 
+#Weatherresult{
+    width: 700px;
+    height: 100px;
+    margin-left: 400px;
+
+}
+
+
